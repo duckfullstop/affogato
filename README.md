@@ -2,7 +2,7 @@
 
 _Just the kick your repair café craves._
 
-> [!WARN]
+> [!WARNING]
 > _affogato_ is being **heavily developed**, and is **not yet ready for use**.
 > If you would like to help out by contributing code or steering the project, please feel free to reach out!
 
